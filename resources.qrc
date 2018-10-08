@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>../../图片/Qt/Ui_glyphs_replay-128.png</file>
+        <file>../../图片/Qt/Ui_glyphs_shutdown-128.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+        <file>7.jpg</file>
+        <file>8.jpg</file>
+        <file>9.jpg</file>
+    </qresource>
+</RCC>
